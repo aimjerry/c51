@@ -1,0 +1,5 @@
+sbit led1=p2_1;
+void main()
+{
+    led1=0;
+}
